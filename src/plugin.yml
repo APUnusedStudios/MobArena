@@ -1,3 +1,11 @@
 name: MobArena
-main: com.alexanderpalomino.mobarena.MobArena
+main: net.apstudios.mobarena.MobArena
 version: 1.0
+
+commands:
+  join:
+    usage: /<command>
+    description: Join an arena
+  leave:
+    usage: /<command>
+    description: Leave an arena
